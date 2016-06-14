@@ -5,8 +5,8 @@
 
 ## How to use 
 #### Deployment
-- `git clone https://dongsamb@yobi.yellofg.com/dongsamb/LogDig_provisional`
-- `cd LogDig_provisional`
+- `git clone https://github.com/dongsam/logdig.git`
+- `cd logdig`
 - `config.py` 수정을 통한 서비스 설정 
     + [SERVICE_NAME, AWS KEY 등 ]
 - `pip install -r requirements.txt`
